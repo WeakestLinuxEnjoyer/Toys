@@ -1,5 +1,4 @@
-#!/usr/bin/Python3
 import sys
 
-# A command to multiply two numbers
+# A command to divide two numbers
 print(float(sys.argv[1]) / float(sys.argv[2]))
