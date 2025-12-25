@@ -1,4 +1,3 @@
-#!/home/gpuchm8/Analysis/bin/python
 import sys
 
 # A command to add two numbers
